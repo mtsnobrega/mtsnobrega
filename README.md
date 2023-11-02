@@ -1,7 +1,7 @@
 <div>
     <a href='https://github.com/mtsnobrega'>
-        <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mtsnobrega&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true'>
-        <img height='180em' width='300em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&show_icons=true&theme=ocean_dark''>
+        <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mtsnobrega&show_icons=true&theme=ocean_dark&include_all_commits=true&include_all_stars=true'>
+        <img height='180em' width='400em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&show_icons=true&theme=ocean_dark''></a>
 </div>
 
 
