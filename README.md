@@ -1,7 +1,9 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsnobrega)](https://github.com/mtsnobrega/github-readme-stats)
+
 <div>
-    <a href https://github.com/mtsnobrega>
+    <a href https://github.com/mtsnobrega></a>
         <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mtsnobrega&show_icons=true&theme=ocean_dark'>
-        <img height='180em' width='300em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&show_icons=true&theme=ocean_dark''</a>
+        <img height='180em' width='300em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&show_icons=true&theme=ocean_dark''>
 </div>
 
 
