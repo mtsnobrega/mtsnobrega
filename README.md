@@ -1,7 +1,6 @@
-<div>
+<div align="center">
     <a href='https://github.com/mtsnobrega'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mtsnobrega&show_icons=true&theme=ocean_dark&include_all_commits=true'/>
-    <img height='180em' width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&layout=compact&show_icons=true&theme=ocean_dark'/>
+    <img  height='180em' width='300px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&layout=compact&show_icons=true&theme=ocean_dark'/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
