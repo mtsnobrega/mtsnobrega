@@ -1,11 +1,9 @@
 <div>
 <div align="center">
     <a href='https://github.com/mtsnobrega'>
-       <p align="center">
-          <img src="https://shields.io" alt="Commits" />
-          <img src="https://shields.io" alt="Seguidores" />
-          <img src="https://shields.io" alt="Estrelas" />
-       </p>
+        <p align="center">
+            <img src="https://vercel.app" alt="Linguagens mais utilizadas" />
+        </p>
     </a>
 </div>
 
