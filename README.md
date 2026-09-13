@@ -1,11 +1,3 @@
-<div>
-<div align="center">
-    <a href='https://github.com/mtsnobrega'>
-        <p align="center">
-            <img src="https://vercel.app" alt="Linguagens mais utilizadas" />
-        </p>
-    </a>
-</div>
 
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="mts-Js" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
