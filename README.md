@@ -2,8 +2,8 @@
 <div align="center">
     <a href='https://github.com/mtsnobrega'>
         <p align="center">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtsnobrega&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="Estatísticas do GitHub" />
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtsnobrega&layout=compact&show_icons=true&theme=ocean_dark" alt="Linguagens mais usadas" />
+            <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+            <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
         </p>
     </a>
 </div>
