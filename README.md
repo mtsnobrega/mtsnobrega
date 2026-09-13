@@ -1,6 +1,6 @@
 <div align="center">
     <a href='https://github.com/mtsnobrega'>
-        <img height='180em' src='https://herokuapp.com>
+        <img height='180em' src='https://herokuapp.com'/>
     </a>
 </div>
 
